@@ -62,7 +62,7 @@
 					<configuration>
 						<archive>
 							<manifest>
-								<mainClass>com.sapient.trg.pl.MessageTest</mainClass>
+								<mainClass>com.sapient.hybris.ui.ProgramTest</mainClass>
 							</manifest>
 						</archive>
 					</configuration>
