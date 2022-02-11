@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
 Build-Jdk-Spec: 11
-Main-Class: com.sapient.trg.pl.MessageTest
+Main-Class: com.sapient.hybris.ui.ProgramTest
 Created-By: Maven Integration for Eclipse
 
